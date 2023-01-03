@@ -1,4 +1,4 @@
-# Airbnb-second-feature-Amsterdam
+# Airbnb-filtering-feature-Amsterdam
 
 A filter option for Airbnb listings in Amsterdam.
 
